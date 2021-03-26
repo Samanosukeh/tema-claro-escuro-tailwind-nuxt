@@ -9,12 +9,4 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+![tema_escuro_claro.png](https://res.cloudinary.com/samanosuke/image/upload/v1616782575/tema_escuro_claro_70db457a78.png)
