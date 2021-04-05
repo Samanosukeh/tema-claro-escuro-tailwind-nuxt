@@ -1,4 +1,5 @@
 # tema-claro-escuro-tailwind-nuxt
+Como utilizar o tema escuro/claro com Nuxt + tailwindCSS de forma simples
 
 ## Build Setup
 
